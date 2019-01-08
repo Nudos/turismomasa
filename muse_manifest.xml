@@ -1,0 +1,388 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ausssssvix.com" resolutions="1x,2x" timestamp="1546906798909">
+  <folder name="css">
+    <file name="site_global.css" crc="3794512459"/>
+    <file name="master_a-p_g_-maestra.css" crc="392647004" ref="rrss:galeria"/>
+    <file name="nomq_preview_master_a-p_g_-maestra.css" crc="3824530138" ref="rrss:galeria"/>
+    <file name="rrss.css" crc="3865624992" ref="rrss"/>
+    <file name="nomq_rrss.css" crc="309763179" ref="rrss"/>
+    <file name="galeria.css" crc="24741461" ref="galeria"/>
+    <file name="nomq_galeria.css" crc="329505740" ref="galeria"/>
+    <file name="index.css" crc="266125035" ref="index"/>
+    <file name="nomq_index.css" crc="247953714" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:galeria:rrss"/>
+    <file name="museutils.js" crc="340535759" ref="index:galeria:rrss"/>
+    <file name="whatinput.js" crc="86476730" ref="index:galeria:rrss"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:galeria:rrss"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:galeria:rrss"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:galeria:rrss"/>
+    <file name="require.js" crc="7928878" ref="index:galeria:rrss"/>
+  </folder>
+  <folder name="images">
+    <file name="captura de pantalla 2018-12-09 a las 191235.jpg" crc="229015403" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-12-09 a las 191235_2x.jpg" crc="180048379" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="captura de pantalla 2019-01-07 a las 131947482x422.jpg" crc="3913653021" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="captura de pantalla 2019-01-07 a las 131947482x422_2x.jpg" crc="369203008" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-11-19 a las 185100.jpg" crc="3759287157" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-11-19 a las 185100_2x.jpg" crc="4173328679" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-11-19 a las 184947.jpg" crc="4086781422" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-11-19 a las 184947_2x.jpg" crc="104019976" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="screenshot_20190105-095405332x567.jpg" crc="3835804898" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="screenshot_20190105-095405332x567_2x.jpg" crc="4241360198" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="screenshot_20190105-093753333x568.jpg" crc="95612977" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="screenshot_20190105-093753333x568_2x.jpg" crc="4151876120" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="screenshot_20190105-125509.jpg" crc="3534136" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="screenshot_20190105-125509_2x.jpg" crc="305440970" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-12-09 a las 192805.jpg" crc="423074738" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-12-09 a las 192805_2x.jpg" crc="411857898" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="screenshot_20190105-125838329x564.jpg" crc="3993701692" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="screenshot_20190105-125838329x564_2x.jpg" crc="4032983861" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="screenshot_20190104-142947324x556.jpg" crc="135327348" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="screenshot_20190104-142947324x556_2x.jpg" crc="296506280" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="screenshot_20190105-094424368x574.jpg" crc="3885706689" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="screenshot_20190105-094424368x574_2x.jpg" crc="3860445853" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="screenshot_20190105-130040370x572.jpg" crc="4235662893" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="screenshot_20190105-130040370x572_2x.jpg" crc="3936644581" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-12-09 a las 191235585x491.jpg" crc="4050455458" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-12-09 a las 191235585x491_2x.jpg" crc="379697197" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-11-19 a las 185100442x380.jpg" crc="4069008580" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-11-19 a las 185100442x380_2x.jpg" crc="3934191096" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="captura de pantalla 2019-01-07 a las 131947402x352.jpg" crc="407663155" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="captura de pantalla 2019-01-07 a las 131947402x352_2x.jpg" crc="3955360594" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-11-19 a las 184947679x447.jpg" crc="228888582" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-11-19 a las 184947679x447_2x.jpg" crc="78476847" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="screenshot_20190105-095405277x473.jpg" crc="489354844" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="screenshot_20190105-095405277x473_2x.jpg" crc="180287278" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="screenshot_20190105-093753277x473.jpg" crc="516517466" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="screenshot_20190105-093753277x473_2x.jpg" crc="149293534" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="screenshot_20190105-125509348x598.jpg" crc="245390157" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="screenshot_20190105-125509348x598_2x.jpg" crc="440633013" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-12-09 a las 192805415x468.jpg" crc="3932592800" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-12-09 a las 192805415x468_2x.jpg" crc="3886681177" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="screenshot_20190105-125838275x470.jpg" crc="3829155885" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="screenshot_20190105-125838275x470_2x.jpg" crc="4140539249" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="screenshot_20190104-142947270x463.jpg" crc="4163788829" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="screenshot_20190104-142947270x463_2x.jpg" crc="158557242" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="screenshot_20190105-094424307x479.jpg" crc="115244371" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="screenshot_20190105-094424307x479_2x.jpg" crc="3988302157" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="screenshot_20190105-130040308x477.jpg" crc="328533739" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="screenshot_20190105-130040308x477_2x.jpg" crc="4273618675" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-12-09 a las 191235526x442.jpg" crc="239847156" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-12-09 a las 191235526x442_2x.jpg" crc="4179059269" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="captura de pantalla 2019-01-07 a las 131947345x302.jpg" crc="4247345456" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="captura de pantalla 2019-01-07 a las 131947345x302_2x.jpg" crc="3774131368" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-11-19 a las 185100354x305.jpg" crc="255199394" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-11-19 a las 185100354x305_2x.jpg" crc="4084035804" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-11-19 a las 184947686x452.jpg" crc="365368690" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-11-19 a las 184947686x452_2x.jpg" crc="3790075957" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="screenshot_20190105-095405213x363.jpg" crc="338513489" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="screenshot_20190105-095405213x363_2x.jpg" crc="4176410898" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="screenshot_20190105-093753213x363.jpg" crc="4130108787" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="screenshot_20190105-093753213x363_2x.jpg" crc="4241701991" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="screenshot_20190105-125509212x364.jpg" crc="76658598" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="screenshot_20190105-125509212x364_2x.jpg" crc="426884803" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-12-09 a las 192805374x423.jpg" crc="496508189" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-12-09 a las 192805374x423_2x.jpg" crc="4071247308" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="screenshot_20190105-125838251x430.jpg" crc="3996921684" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="screenshot_20190105-125838251x430_2x.jpg" crc="4114063418" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="screenshot_20190104-142947315x541.jpg" crc="214319764" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="screenshot_20190104-142947315x541_2x.jpg" crc="4279735399" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="screenshot_20190105-094424348x543.jpg" crc="4139704757" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="screenshot_20190105-094424348x543_2x.jpg" crc="370032335" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="screenshot_20190105-130040351x543.jpg" crc="433972754" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="screenshot_20190105-130040351x543_2x.jpg" crc="143581503" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-12-09 a las 191235520x437.jpg" crc="264024223" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-12-09 a las 191235520x437_2x.jpg" crc="118197398" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="captura de pantalla 2019-01-07 a las 131947.jpg" crc="388048625" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="captura de pantalla 2019-01-07 a las 131947_2x.jpg" crc="4060497674" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-11-19 a las 185100499x428.jpg" crc="4031948687" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-11-19 a las 185100499x428_2x.jpg" crc="258575258" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-11-19 a las 184947501x330.jpg" crc="3967329579" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-11-19 a las 184947501x330_2x.jpg" crc="3832404823" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="screenshot_20190105-095405266x456.jpg" crc="4239814156" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="screenshot_20190105-095405266x456_2x.jpg" crc="3968485227" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="screenshot_20190105-125509267x458.jpg" crc="3960816143" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="screenshot_20190105-125509267x458_2x.jpg" crc="326642168" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="screenshot_20190105-093753289x494.jpg" crc="454024149" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="screenshot_20190105-093753289x494_2x.jpg" crc="294252380" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-12-09 a las 192805328x370.jpg" crc="4052572529" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-12-09 a las 192805328x370_2x.jpg" crc="3975002219" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="screenshot_20190105-125838217x371.jpg" crc="4028165396" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="screenshot_20190105-125838217x371_2x.jpg" crc="229178599" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="screenshot_20190104-142947357x612.jpg" crc="39605008" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="screenshot_20190104-142947357x612_2x.jpg" crc="3762644184" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="screenshot_20190105-094424274x428.jpg" crc="122777962" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="screenshot_20190105-094424274x428_2x.jpg" crc="4093992359" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="screenshot_20190105-130040276x427.jpg" crc="342241446" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="screenshot_20190105-130040276x427_2x.jpg" crc="3765881677" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-12-09 a las 191235406x341.jpg" crc="4018169884" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-12-09 a las 191235406x341_2x.jpg" crc="252804228" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="captura de pantalla 2019-01-07 a las 131947409x359.jpg" crc="3842799079" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="captura de pantalla 2019-01-07 a las 131947409x359_2x.jpg" crc="225672185" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-11-19 a las 185100409x352.jpg" crc="4034234916" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-11-19 a las 185100409x352_2x.jpg" crc="165141349" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-11-19 a las 184947410x270.jpg" crc="89910545" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-11-19 a las 184947410x270_2x.jpg" crc="4255467675" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="screenshot_20190105-095405.jpg" crc="377733287" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="screenshot_20190105-095405_2x.jpg" crc="229113459" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="screenshot_20190105-093753.jpg" crc="378912916" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="screenshot_20190105-093753_2x.jpg" crc="3799883888" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="screenshot_20190105-125509406x698.jpg" crc="532336581" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="screenshot_20190105-125509406x698_2x.jpg" crc="3984887064" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-12-09 a las 192805407x460.jpg" crc="28880261" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-12-09 a las 192805407x460_2x.jpg" crc="175514453" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="screenshot_20190105-125838.jpg" crc="4156712878" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="screenshot_20190105-125838_2x.jpg" crc="210228736" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="screenshot_20190104-142947.jpg" crc="445443232" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="screenshot_20190104-142947_2x.jpg" crc="481279458" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="screenshot_20190105-094424.jpg" crc="527681323" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="screenshot_20190105-094424_2x.jpg" crc="3897837520" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="screenshot_20190105-130040.jpg" crc="4077663519" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="screenshot_20190105-130040_2x.jpg" crc="401379463" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="galeria:rrss"/>
+  </folder>
+  <file name="index.html" crc="317126235" seo="true" mt="1546877132358" redirect="true"/>
+  <file name="galeria.html" crc="4242837943" seo="true" mt="1546906632711" redirect="true"/>
+  <file name="rrss.html" crc="3818672267" seo="true" mt="1546906730409" redirect="true"/>
+</manifest>
